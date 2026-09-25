@@ -1,5 +1,7 @@
 Step 1: Extract the ZIP File
+
 Locate the ZIP file you downloaded on your computer.
+
 Right-click on the ZIP file and select "Extract All..." or use a similar option depending on your operating system.
 Choose a destination folder and extract the contents. Make sure you remember the location where you extracted the files.
 Step 2: Enable Developer Mode in Chrome
